@@ -11,3 +11,5 @@ before_script:
 
 script: 
    - python figurastest.py -v
+
+email:false
